@@ -25,7 +25,7 @@ This is the main class of the application.
 This class contains a main method that starts the search process according to the given command lines.
 Usage of the main method from command line goes as follows:
 > java DiskSearcher 
-<filename-pattern> <root directory> <destination directory> <# of searchers> <# of copiers>
+<filename-pattern> <root directory> <destination directory> <# of searchers> <# of copiers>.
 
 For example:
 > java DiskSearcher solution Users/OS_Exercises Users/temp 10 5
